@@ -1,3 +1,8 @@
+# NOTE: the forked repo doesn't seem to be published. Just forking so we can install it using:
+```ruby
+gem 'xapi', github: 'bebraven/Xapi', branch: 'master'
+```
+
 # xAPI
 
 A Ruby library for implementing xAPIs Statements, Profiles and Querying Statements for LRS in simple way.
